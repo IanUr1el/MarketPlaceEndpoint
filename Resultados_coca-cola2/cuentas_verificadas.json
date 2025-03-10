@@ -1,0 +1,35 @@
+{
+    "fecha_busqueda": "2025-02-05 14:40:46",
+    "resultados": {
+        "automaticas": {
+            "X": [
+                "https://x.com/cocacolamx",
+                "https://x.com/cocacola?lang=en",
+                "https://x.com/cocacolaco?lang=en"
+            ],
+            "Facebook": [
+                "https://www.facebook.com/CocaColaMx/?locale=es_LA",
+                "https://www.facebook.com/CocaColaMx/",
+                "https://www.facebook.com/cocacolafemsamexico/?locale=es_LA",
+                "https://www.facebook.com/TheCocaColaCo/",
+                "https://www.facebook.com/CocaColaUnitedStates/",
+                "https://www.facebook.com/Coca-Cola/"
+            ],
+            "Instagram": [
+                "https://www.instagram.com/cocacolamx/?hl=en",
+                "https://www.instagram.com/cocacolafemsa_mx/?hl=en",
+                "https://www.instagram.com/cocacola_flow/",
+                "https://www.instagram.com/cocacola/",
+                "https://www.instagram.com/thecocacolaco/?hl=en"
+            ],
+            "Tiktok": [
+                "https://www.tiktok.com/@cocacola?lang=en"
+            ]
+        },
+        "manuales": {
+            "Tiktok": [
+                "https://www.tiktok.com/@cocacola_femsa"
+            ]
+        }
+    }
+}

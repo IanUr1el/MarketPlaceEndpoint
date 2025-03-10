@@ -1,0 +1,23 @@
+{
+    "fecha_busqueda": "2025-02-24 14:41:14",
+    "resultados": {
+        "automaticas": {
+            "X": [
+                "https://x.com/apple?lang=en",
+                "https://x.com/apple?lang=en"
+            ],
+            "Facebook": [
+                "https://www.facebook.com/apple/"
+            ],
+            "Instagram": [
+                "https://www.instagram.com/apple/",
+                "https://www.instagram.com/apple/"
+            ],
+            "Tiktok": [
+                "https://www.tiktok.com/@apple?lang=en"
+            ]
+        },
+        "manuales": {},
+        "eliminadas": {}
+    }
+}

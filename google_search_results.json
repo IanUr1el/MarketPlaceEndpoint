@@ -1,0 +1,445 @@
+[
+    {
+        "kind": "customsearch#result",
+        "title": "Home Page | Coca-Cola US",
+        "htmlTitle": "Home Page | <b>Coca</b>-<b>Cola</b> US",
+        "link": "https://www.coca-cola.com/us/en",
+        "displayLink": "www.coca-cola.com",
+        "snippet": "imagine an even better looking vitaminwater. crazy, right? we're getting a makeover and adding two fun flavors to the family. · A new blend that's simply gold.",
+        "htmlSnippet": "imagine an even better looking vitaminwater. crazy, right? we&#39;re getting a makeover and adding two fun flavors to the family. &middot; A new blend that&#39;s simply gold.",
+        "formattedUrl": "https://www.coca-cola.com/us/en",
+        "htmlFormattedUrl": "https://www.<b>coca-cola</b>.com/us/en",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1SrHEihXo08DPFpKuM1i-8WqnYth0OAUONYbEG5SopCuQV51rNIhIxyBu&s",
+                    "width": "251",
+                    "height": "201"
+                }
+            ],
+            "imageobject": [
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/global/icons/Coke-company-logo-black.svg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/hero-banners/psoy-d-banner.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/hero-banners/proud-sponsors-of-generation-dt.jpeg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/hero-banners/psoy-d-banner.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/hero-banners/proud-sponsors-of-generation-dt.jpeg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/hero-banners/psoy-d-banner.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/hero-banners/proud-sponsors-of-generation-dt.jpeg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/gold-peak-tea/product-page/vitaminwater-cpg-hero-campaign.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/gold-peak-tea/product-page/goldpeak-blp-simplygoldpeak.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/homepage/update-10-30-2024/coke-reborn-campaign.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/homepage/plusone-card.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-wocc.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-refreshing-films.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-vending.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-freestyle.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/homepage/plusone-card.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/offerings/landing-page/desktop/coke-offering-wocc.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/homepage/CocaColalogor.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/diet-coke/en_diet%20coke_logo_color_471x180.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/sprite/en_sprite_logo_green-text-only_477x180.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/fanta/en_fanta_logo_colored_319x180_v1.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/smartwater/multi-variant/v2/SW_wordmarks_RGB_color_500x180.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/minute-maid/final-logo/Global%20MinuteMaid%20Logo.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/global/icons/logo-white-large.svg"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/global/images/buttons/badge_apple.png"
+                },
+                {
+                    "contenturl": "https://www.coca-cola.com/content/dam/onexp/global/images/buttons/badge_google.png"
+                }
+            ],
+            "metatags": [
+                {
+                    "template": "homepage",
+                    "og:image": "/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg",
+                    "thumbnailalt": "coca-cola real magic",
+                    "apple-itunes-app": "app-id=1310675636",
+                    "og:image:alt": "coca-cola real magic",
+                    "frontendversion": "1.2404.0",
+                    "xtndrecaptchasitekeyv3": "6Lfe5b8kAAAAAItc37dlx65sVLiwPNekg84cNLzm",
+                    "publicationdate": "2025-01-29T00:00:00Z",
+                    "contenttype": "Homepage",
+                    "instancename": "99bf8767-dp7h4",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "cepversion": "1.771.0",
+                    "thumbnailimage": "/content/dam/onexp/us/en/homepage/ko-onexp-meta-image.jpg",
+                    "sitesection": "Homepage"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://www.coca-cola.com/content/dam/onexp/us/en/brands/gold-peak-tea/product-page/vitaminwater-cpg-hero-campaign.jpg"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "The Coca-Cola Company: Refresh the World. Make a Difference",
+        "htmlTitle": "The <b>Coca</b>-<b>Cola</b> Company: Refresh the World. Make a Difference",
+        "link": "https://www.coca-colacompany.com/",
+        "displayLink": "www.coca-colacompany.com",
+        "snippet": "As a total beverage company, we are committed to offering people more of the drinks they want across a range of categories and in a variety of sizes.",
+        "htmlSnippet": "As a total beverage company, we are committed to offering people more of the drinks they want across a range of categories and in a variety of sizes.",
+        "formattedUrl": "https://www.coca-colacompany.com/",
+        "htmlFormattedUrl": "https://www.<b>coca-cola</b>company.com/",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwkt1TkdF5zin5WOILw41RbZBw7hlYY4hWJdrpEY_TdvzDJ-pg0yPxR74&s",
+                    "width": "259",
+                    "height": "194"
+                }
+            ],
+            "imageobject": [
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/the-coca-cola-company-logo.svg",
+                    "caption": "the-coca-cola-company-logo.svg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/the-coca-cola-company-logo.svg",
+                    "caption": "the-coca-cola-company-logo.svg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/home/TCCC_mastheads_refreshingly_local.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/home/TCCC_mastheads_05.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/xx/en/JC-image-16x9.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/TCCC_Innovation_Website_mastheads_01.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/home/TCCC_mastheads_01.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/home/TCCC_mastheads_refreshingly_local.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/home/TCCC_mastheads_05.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/xx/en/JC-image-16x9.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/TCCC_Innovation_Website_mastheads_01.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/sustainability/1art.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/Case%20Study%205_ASP_AUSTRALIA_CCEP%20Sourcing%20from%20Wind%20Farm-470KB%20(1).jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/media-center/EconomicImpact-4x3.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/jd-and-coke-rtd-4by3.png",
+                    "caption": "Jack Daniels and Coca-Cola RTD"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/media-center/creations-oreo-4x3.jpeg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/media-center/EconomicImpact-4x3.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/jd-and-coke-rtd-4by3.png",
+                    "caption": "Jack Daniels and Coca-Cola RTD"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/media-center/creations-oreo-4x3.jpeg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/media-center/EconomicImpact-4x3.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/PACS%20Singapore%20Employees%202021-019-cut2.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/Our-Company-1.5MB-cut2.jpg"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/coca-cola-logo.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/dietCoke_transparency.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/Sprite_logo_924.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/topo-chico-logo.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/fairlife-logo.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/costa-logo.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/powerade-logo.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/smartwater_logo_924.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/brands/logos/Jackandcoke_logo_924.png"
+                },
+                {
+                    "contenturl": "https://www.coca-colacompany.com/content/dam/company/us/en/the-coca-cola-company-logo-white.svg",
+                    "caption": "the-coca-cola-company-logo-white.svg"
+                }
+            ],
+            "metatags": [
+                {
+                    "template": "homepage",
+                    "og:image": "/content/dam/company/us/en/about-us/coca-cola-portfolio-skateboard-campaigncard.jpg",
+                    "og:image:alt": "A woman smiles as she holds a skateboard overhead featuring 5 Coca-Cola brands",
+                    "instancename": "99bf8767-7xpn9",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "cepversion": "1.771.0",
+                    "thumbnailimage": "/content/dam/company/us/en/about-us/coca-cola-portfolio-skateboard-campaigncard.jpg",
+                    "sitesection": "Homepage",
+                    "publicationdate": "2024-01-15T00:00:00Z",
+                    "contenttype": "Homepage"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://www.coca-colacompany.com/content/dam/company/us/en/jd-and-coke-rtd-4by3.png"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Coca-Cola - Wikipedia",
+        "htmlTitle": "<b>Coca</b>-<b>Cola</b> - Wikipedia",
+        "link": "https://en.wikipedia.org/wiki/Coca-Cola",
+        "displayLink": "en.wikipedia.org",
+        "snippet": "In 1888, Pemberton sold the ownership rights to Asa Griggs Candler, a businessman, whose marketing tactics led Coca-Cola to its dominance of the global soft- ...",
+        "htmlSnippet": "In 1888, Pemberton sold the ownership rights to Asa Griggs Candler, a businessman, whose marketing tactics led <b>Coca</b>-<b>Cola</b> to its dominance of the global soft-&nbsp;...",
+        "formattedUrl": "https://en.wikipedia.org/wiki/Coca-Cola",
+        "htmlFormattedUrl": "https://en.wikipedia.org/wiki/<b>Coca-Cola</b>",
+        "pagemap": {
+            "hrecipe": [
+                {
+                    "fn": "Coca-Cola",
+                    "published": "1886-05-08"
+                }
+            ],
+            "metatags": [
+                {
+                    "referrer": "origin",
+                    "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Coca_Cola_Flasche_-_Original_Taste.jpg/1200px-Coca_Cola_Flasche_-_Original_Taste.jpg",
+                    "theme-color": "#eaecf0",
+                    "og:image:width": "1200",
+                    "og:type": "website",
+                    "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+                    "og:title": "Coca-Cola - Wikipedia",
+                    "og:image:height": "1800",
+                    "format-detection": "telephone=no"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "World of Coca-Cola: Atlanta Attraction, Museum, & Venue",
+        "htmlTitle": "World of <b>Coca</b>-<b>Cola</b>: Atlanta Attraction, Museum, &amp; Venue",
+        "link": "https://www.worldofcoca-cola.com/",
+        "displayLink": "www.worldofcoca-cola.com",
+        "snippet": "Welcome to the World of Coca-Cola, an Atlanta attraction through the history of Coca-Cola with interactive exhibits & beverage samples.",
+        "htmlSnippet": "Welcome to the World of <b>Coca</b>-<b>Cola</b>, an Atlanta attraction through the history of <b>Coca</b>-<b>Cola</b> with interactive exhibits &amp; beverage samples.",
+        "formattedUrl": "https://www.worldofcoca-cola.com/",
+        "htmlFormattedUrl": "https://www.worldof<b>coca-cola</b>.com/",
+        "pagemap": {
+            "imageobject": [
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/debug/wocc-logo-navigation-v2.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/desktop/wocc-nav-explore.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/desktop/wocc-nav-groups.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/header/groups.jpeg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/header/aboutus.jpeg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/home/desktop/wocc-hpg-hero-museum-exterior.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/home/desktop/wocc-hpg-pemberton-place-teaser.jpeg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/icons-exhibit/wocc-exp-icons-holiday-hpg-teaser.jpg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/explore-inside/explore-new-scent-discovery.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/taste-it/desktop/taste-it-large.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/special-offers-updates/desktop/wocc-citypass-49.jpg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/home/desktop/bottle-cap-cafe-homepage.jpg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/special-offers-updates/desktop/wocc-hpg-cokestore-25-tile.jpg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/mobile/wocc-hpg-social-1.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/desktop/wocc-hpg-social-2.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/desktop/wocc-hpg-social-7.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/teaser-images/WOCC-Bev-Lab-Tasting-Room-1x1.jpg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/teaser-images/WOCC-Bev-Lab-Sparkling-1x1.jpg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/desktop/wocc-hpg-social-6.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/teaser-images/WOCC-Bev-Lab-Hands-On%20-1x1.jpg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/desktop/wocc-hpg-social-8.png"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/teaser-images/WOCC-green-space.jpg"
+                },
+                {
+                    "contenturl": "https://www.worldofcoca-cola.com/content/dam/wocc/us/en/debug/wocc-logo-navigation-v2.png"
+                }
+            ],
+            "metatags": [
+                {
+                    "template": "homepage",
+                    "instancename": "99bf8767-jp9pt",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "cepversion": "1.771.0",
+                    "publicationdate": "2025-01-17T00:00:00Z"
+                }
+            ]
+        }
+    },
+    {
+        "kind": "customsearch#result",
+        "title": "Coca-Cola Consolidated: Home",
+        "htmlTitle": "<b>Coca</b>-<b>Cola</b> Consolidated: Home",
+        "link": "https://www.cokeconsolidated.com/",
+        "displayLink": "www.cokeconsolidated.com",
+        "snippet": "Jan 8, 2025 ... Your Local Bottler. Coca-Cola Consolidated is the largest Coca-Cola bottler in the United States. For 123 years, we have been deeply committed ...",
+        "htmlSnippet": "Jan 8, 2025 <b>...</b> Your Local Bottler. <b>Coca</b>-<b>Cola</b> Consolidated is the largest <b>Coca</b>-<b>Cola</b> bottler in the United States. For 123 years, we have been deeply committed&nbsp;...",
+        "formattedUrl": "https://www.cokeconsolidated.com/",
+        "htmlFormattedUrl": "https://www.cokeconsolidated.com/",
+        "pagemap": {
+            "cse_thumbnail": [
+                {
+                    "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaO6gU48YuM744eBX3VG4VyQc2qBu5zsYp-pwihoeH56lM19zAYtXo6EJN&s",
+                    "width": "273",
+                    "height": "185"
+                }
+            ],
+            "metatags": [
+                {
+                    "og:image": "https://www.cokeconsolidated.com/wp-content/uploads/2024/05/coca_cola_logo.png",
+                    "og:type": "website",
+                    "og:image:width": "713",
+                    "twitter:card": "summary_large_image",
+                    "og:site_name": "Coca-Cola Consolidated",
+                    "og:title": "Home - Coca-Cola Consolidated",
+                    "og:image:height": "484",
+                    "og:image:type": "image/png",
+                    "og:description": "Coca-Cola Consolidated, headquartered in Charlotte, North Carolina, is the largest independent Coca-Cola bottler in the United States.",
+                    "article:publisher": "https://www.facebook.com/CocaColaConsolidated/",
+                    "twitter:site": "@CokeCCBCC",
+                    "article:modified_time": "2025-01-08T19:46:13+00:00",
+                    "viewport": "width=device-width, initial-scale=1",
+                    "og:locale": "en_US",
+                    "og:url": "https://www.cokeconsolidated.com/"
+                }
+            ],
+            "cse_image": [
+                {
+                    "src": "https://www.cokeconsolidated.com/wp-content/uploads/2024/05/coca_cola_logo.png"
+                }
+            ],
+            "hatomfeed": [
+                {}
+            ]
+        }
+    }
+]

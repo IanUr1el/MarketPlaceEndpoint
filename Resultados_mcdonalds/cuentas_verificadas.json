@@ -1,0 +1,28 @@
+{
+    "fecha_busqueda": "2025-02-24 14:49:32",
+    "resultados": {
+        "automaticas": {
+            "X": [
+                "https://x.com/mcdonaldsmexico?lang=en",
+                "https://x.com/mcdonalds?lang=en"
+            ],
+            "Facebook": [
+                "https://www.facebook.com/McDonaldsMexico/?locale=es_LA",
+                "https://www.facebook.com/McDonaldsMexico/",
+                "https://www.facebook.com/McDonalds/",
+                "https://www.facebook.com/McDonalds/?locale=en_GB"
+            ],
+            "Instagram": [
+                "https://www.instagram.com/mcdonaldsmx/",
+                "https://www.instagram.com/fundacion_ronaldmcdonald/",
+                "https://www.instagram.com/mcdonalds/",
+                "https://www.instagram.com/mcdonaldscorp/?hl=en"
+            ],
+            "Tiktok": [
+                "https://www.tiktok.com/@mcdonalds?lang=en"
+            ]
+        },
+        "manuales": {},
+        "eliminadas": {}
+    }
+}

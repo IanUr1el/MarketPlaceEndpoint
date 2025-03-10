@@ -1,0 +1,971 @@
+{
+    "fecha_busqueda": "2025-02-24 14:41:13",
+    "resultados": [
+        {
+            "kind": "customsearch#result",
+            "title": "Compartir en YouTube, Facebook o Vimeo desde las apps de video ...",
+            "htmlTitle": "Compartir en YouTube, <b>Facebook</b> o Vimeo desde las apps de video ...",
+            "link": "https://support.apple.com/es-mx/102366",
+            "displayLink": "support.apple.com",
+            "snippet": "Compartir en YouTube, Facebook o Vimeo desde las apps de video de Apple ... En Safari u otro navegador web, inicia sesión en tu cuenta de YouTube, Facebook o ...",
+            "htmlSnippet": "Compartir en YouTube, <b>Facebook</b> o Vimeo desde las apps de video de <b>Apple</b> ... En Safari u otro navegador web, inicia sesión en tu <b>cuenta</b> de YouTube, <b>Facebook</b> o&nbsp;...",
+            "formattedUrl": "https://support.apple.com/es-mx/102366",
+            "htmlFormattedUrl": "https://support.<b>apple</b>.com/es-<b>mx</b>/102366",
+            "pagemap": {
+                "Organization": [
+                    {
+                        "name": "Apple",
+                        "telephone": "001-800-692-7753"
+                    }
+                ],
+                "BreadcrumbList": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "globalnav-search-field[locale]": "es_MX",
+                        "og:site_name": "Apple Support",
+                        "globalnav-store-key": "S2A49YFKJF2JAT22K",
+                        "og:title": "Compartir en YouTube, Facebook o Vimeo desde las apps de video de Apple - Soporte t&eacute;cnico de Apple (MX)",
+                        "globalnav-search-field[src]": "globalnav_support",
+                        "globalnav-search-field[name]": "q",
+                        "telephone": "001-800-692-7753",
+                        "og:description": "Obtén información sobre cómo compartir videos creados con Clips, iMovie, Final Cut Pro o Compressor.",
+                        "globalnav-search-field[placeholder]": "Buscar en Soporte técnico",
+                        "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "og:locale": "es_MX",
+                        "globalnav-search-field[type]": "organic",
+                        "name": "Apple",
+                        "globalnav-search-field[page]": "search",
+                        "position": "1",
+                        "og:url": "https://support.apple.com/es-mx/102366"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Facebook on the App Store",
+            "htmlTitle": "<b>Facebook</b> on the App Store",
+            "link": "https://apps.apple.com/mx/app/facebook/id284882215?l=en-GB",
+            "displayLink": "apps.apple.com",
+            "snippet": "Temas útiles. Contratar el AppleCare+ · Cuenta de Apple y contraseña ... Mexico. Español (México). Select a country or region. Africa, Middle East, and India. See ...",
+            "htmlSnippet": "Temas útiles. Contratar el AppleCare+ &middot; <b>Cuenta</b> de <b>Apple</b> y contraseña ... <b>Mexico</b>. Español (<b>México</b>). Select a country or region. Africa, Middle East, and India. See&nbsp;...",
+            "formattedUrl": "https://apps.apple.com/mx/app/facebook/id284882215?l=en-GB",
+            "htmlFormattedUrl": "https://apps.<b>apple</b>.com/<b>mx</b>/app/<b>facebook</b>/id284882215?l=en-GB",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDrihMmZfPDcre_9huZJL8t55WEE8b7pd_M3onNKO9uN1XlGHmmHqoP-_p&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/77/e8/fd77e854-fe9d-3903-1865-20958188f8fe/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "App Store",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/png",
+                        "og:description": "‎Where real people propel your curiosity. Whether you're shopping for second-hand gear, showing a reel to that group who gets it or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\r\n\nExplore and expand your interests: \r\n* Ask Meta AI…",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/77/e8/fd77e854-fe9d-3903-1865-20958188f8fe/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/77/e8/fd77e854-fe9d-3903-1865-20958188f8fe/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x600wa.png",
+                        "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222504.1.0%2B131c109f%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+                        "twitter:image:alt": "Facebook on the App Store",
+                        "twitter:site": "@AppStore",
+                        "og:image:alt": "Facebook on the App Store",
+                        "og:type": "website",
+                        "twitter:title": "‎Facebook",
+                        "og:title": "‎Facebook",
+                        "og:image:height": "630",
+                        "version": "2504.1.0",
+                        "globalnav-search-suggestions-enabled": "false",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "ac-gn-search-suggestions-enabled": "false",
+                        "twitter:description": "‎Where real people propel your curiosity. Whether you're shopping for second-hand gear, showing a reel to that group who gets it or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\r\n\nExplore and expand your interests: \r\n* Ask Meta AI…",
+                        "og:locale": "en_GB",
+                        "apple:content_id": "284882215",
+                        "og:url": "https://apps.apple.com/mx/app/facebook/id284882215?l=en-GB"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/77/e8/fd77e854-fe9d-3903-1865-20958188f8fe/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Si no puedes descargar o actualizar apps en el iPhone o iPad ...",
+            "htmlTitle": "Si no puedes descargar o actualizar apps en el iPhone o iPad ...",
+            "link": "https://support.apple.com/es-mx/102632",
+            "displayLink": "support.apple.com",
+            "snippet": "Feb 8, 2025 ... Prueba los siguientes pasos si tienes un problema al actualizar o descargar apps desde App Store en el iPhone o iPad.",
+            "htmlSnippet": "Feb 8, 2025 <b>...</b> Prueba los siguientes pasos si tienes un problema al actualizar o descargar apps desde App Store en el iPhone o iPad.",
+            "formattedUrl": "https://support.apple.com/es-mx/102632",
+            "htmlFormattedUrl": "https://support.<b>apple</b>.com/es-<b>mx</b>/102632",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJyY_KpoW0wtiSLucU3MchQWiBiVoqqmFcI97tVKrTQ13UNZiPu-sDxR0&s",
+                        "width": "206",
+                        "height": "244"
+                    }
+                ],
+                "Organization": [
+                    {
+                        "name": "Apple",
+                        "telephone": "001-800-692-7753"
+                    }
+                ],
+                "BreadcrumbList": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "globalnav-search-field[locale]": "es_MX",
+                        "og:site_name": "Apple Support",
+                        "globalnav-store-key": "S2A49YFKJF2JAT22K",
+                        "og:title": "Si no puedes descargar o actualizar apps en el iPhone o iPad - Soporte t&eacute;cnico de Apple (MX)",
+                        "globalnav-search-field[src]": "globalnav_support",
+                        "globalnav-search-field[name]": "q",
+                        "telephone": "001-800-692-7753",
+                        "og:description": "Prueba los siguientes pasos si tienes un problema al actualizar o descargar apps desde App Store en el iPhone o iPad.",
+                        "globalnav-search-field[placeholder]": "Buscar en Soporte técnico",
+                        "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "og:locale": "es_MX",
+                        "globalnav-search-field[type]": "organic",
+                        "name": "Apple",
+                        "globalnav-search-field[page]": "search",
+                        "position": "1",
+                        "og:url": "https://support.apple.com/es-mx/102632"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdsassets.apple.com/live/7WUAS350/images/ios/locale/es-mx/ios-18-iphone-16-pro-home-screen-app-options.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Facebook en App Store",
+            "htmlTitle": "<b>Facebook</b> en App Store",
+            "link": "https://apps.apple.com/mx/app/facebook/id284882215",
+            "displayLink": "apps.apple.com",
+            "snippet": "Cuenta de Apple y contraseña · Facturación y suscripciones · Accesibilidad. 0 ... México. English (UK). Elige un país o región. Africa, Oriente Medio e India.",
+            "htmlSnippet": "<b>Cuenta</b> de <b>Apple</b> y contraseña &middot; Facturación y suscripciones &middot; Accesibilidad. 0 ... <b>México</b>. English (UK). Elige un país o región. Africa, Oriente Medio e India.",
+            "formattedUrl": "https://apps.apple.com/mx/app/facebook/id284882215",
+            "htmlFormattedUrl": "https://apps.<b>apple</b>.com/<b>mx</b>/app/<b>facebook</b>/id284882215",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlP7InGe5o_PpuXB6yUcxgme_VJuZhc51ZeN6npLt_-71EvYzuZj_bu5M&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e6/73/1de6738c-70db-89c4-fec1-600aba0f1e15/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "App Store",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/png",
+                        "og:description": "‎El lugar donde personas reales despiertan tu curiosidad. Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como ninguna otra red social.\n\nExplora y amplía tus inter…",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e6/73/1de6738c-70db-89c4-fec1-600aba0f1e15/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e6/73/1de6738c-70db-89c4-fec1-600aba0f1e15/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x600wa.png",
+                        "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222508.0.0%2B02a73239%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+                        "twitter:image:alt": "Facebook en App Store",
+                        "twitter:site": "@AppStore",
+                        "og:image:alt": "Facebook en App Store",
+                        "og:type": "website",
+                        "twitter:title": "‎Facebook",
+                        "og:title": "‎Facebook",
+                        "og:image:height": "630",
+                        "version": "2508.0.0",
+                        "globalnav-search-suggestions-enabled": "false",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "ac-gn-search-suggestions-enabled": "false",
+                        "twitter:description": "‎El lugar donde personas reales despiertan tu curiosidad. Ya sea que estés comprando equipo de segunda mano, mostrando un reel a quienes lo entienden o divirtiéndote con imágenes rediseñadas por IA, Facebook te permite hacer realidad tus ideas como ninguna otra red social.\n\nExplora y amplía tus inter…",
+                        "og:locale": "es_MX",
+                        "apple:content_id": "284882215",
+                        "og:url": "https://apps.apple.com/mx/app/facebook/id284882215"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e6/73/1de6738c-70db-89c4-fec1-600aba0f1e15/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "... - Consulado General de México en Sacramento, California ...",
+            "htmlTitle": "... - Consulado General de <b>México</b> en Sacramento, California ...",
+            "link": "https://www.facebook.com/consulmexsac/posts/-aviso-importante-citas-para-registro-civil-y-f%C3%A9-p%C3%BAblicacon-la-intenci%C3%B3n-de-aten/1026226026215739/",
+            "displayLink": "www.facebook.com",
+            "snippet": "Jan 6, 2025 ... ... Apple. En cuanto lo hagan, se los haremos saber para que todas y ... ❤️ Revive la charla con Jorge Miguel Cocom Pech en Facebook @ConsulmexSac y ...",
+            "htmlSnippet": "Jan 6, 2025 <b>...</b> ... <b>Apple</b>. En cuanto lo hagan, se los haremos saber para que todas y ... ❤️ Revive la charla con Jorge Miguel Cocom Pech en <b>Facebook</b> @ConsulmexSac y&nbsp;...",
+            "formattedUrl": "https://www.facebook.com/consulmexsac/.../1026226026215739/",
+            "htmlFormattedUrl": "https://www.<b>facebook</b>.com/consulmexsac/.../1026226026215739/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlObOWsj5ObMsAq50az4N0O_-2NlVRhwxqoX82LIOjhw0S7feRGj4bhd5A&s",
+                        "width": "201",
+                        "height": "251"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1026225906215751",
+                        "og:type": "video.other",
+                        "og:image:alt": "Consulado General de México en Sacramento, California",
+                        "twitter:card": "summary",
+                        "twitter:title": "Consulado General de México en Sacramento, California",
+                        "theme-color": "#FFFFFF",
+                        "og:title": "Consulado General de México en Sacramento, California",
+                        "google": "notranslate",
+                        "og:description": "📣 AVISO IMPORTANTE: CITAS PARA REGISTRO CIVIL Y FÉ PÚBLICA📣\n\nCon la intención de atender las sugerencias de nuestra comunidad 🇲🇽 y mejorar el alcance y dinamismo de nuestros servicios, a  partir de...",
+                        "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1026225906215751",
+                        "referrer": "origin-when-crossorigin",
+                        "twitter:image:alt": "Consulado General de México en Sacramento, California",
+                        "twitter:site": "@facebookapp",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "📣 AVISO IMPORTANTE: CITAS PARA REGISTRO CIVIL Y FÉ PÚBLICA📣\n\nCon la intención de atender las sugerencias de nuestra comunidad 🇲🇽 y mejorar el alcance y dinamismo de nuestros servicios, a  partir de...",
+                        "og:locale": "en_US",
+                        "fb-version": "449.0.0.0.46:2749",
+                        "og:url": "https://www.facebook.com/consulmexsac/posts/-aviso-importante-citas-para-registro-civil-y-f%C3%A9-p%C3%BAblicacon-la-intenci%C3%B3n-de-aten/1026226026215739/"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=1026225906215751"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Apple",
+            "htmlTitle": "<b>Apple</b>",
+            "link": "https://www.facebook.com/apple/",
+            "displayLink": "www.facebook.com",
+            "snippet": "Photos. Details. 󱛐. Page · Product/service. Apple profile picture. Apple updated their cover photo. 4d󰞋󱟠. 󰟝. May be an image of phone, digital audio player and ...",
+            "htmlSnippet": "Photos. Details. 󱛐. Page · Product/service. <b>Apple</b> profile picture. <b>Apple</b> updated their cover photo. 4d󰞋󱟠. 󰟝. May be an image of phone, digital audio player and&nbsp;...",
+            "formattedUrl": "https://www.facebook.com/apple/",
+            "htmlFormattedUrl": "https://www.<b>facebook</b>.com/<b>apple</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfWb4jBMJqwpLgUu7M1_4vdZFdBrwQeIy66Dq_OokOBgUoZ1J5oGwIcwY4&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=284882215, app-argument=fb://profile/100064606995009",
+                        "og:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064606995009",
+                        "twitter:card": "summary",
+                        "theme-color": "#FFFFFF",
+                        "al:android:package": "com.facebook.katana",
+                        "al:ios:url": "fb://profile/100064606995009",
+                        "og:description": "Apple. 14,360,667 likes · 747,253 talking about this · 163,954 were here. Product/service",
+                        "al:ios:app_store_id": "284882215",
+                        "twitter:image": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064606995009",
+                        "twitter:image:alt": "Apple",
+                        "twitter:site": "@facebookapp",
+                        "og:type": "video.other",
+                        "og:image:alt": "Apple",
+                        "twitter:title": "Apple",
+                        "al:ios:app_name": "Facebook",
+                        "og:title": "Apple",
+                        "google": "notranslate",
+                        "al:android:url": "fb://profile/100064606995009",
+                        "referrer": "origin-when-crossorigin",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "twitter:description": "Apple. 14,360,667 likes · 747,253 talking about this · 163,954 were here. Product/service",
+                        "og:locale": "en_US",
+                        "fb-version": "449.0.0.0.46:2749",
+                        "og:url": "https://www.facebook.com/apple/",
+                        "al:android:app_name": "Facebook"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064606995009"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Facebook on the App Store",
+            "htmlTitle": "<b>Facebook</b> on the App Store",
+            "link": "https://apps.apple.com/us/app/facebook/id284882215",
+            "displayLink": "apps.apple.com",
+            "snippet": "Helpful Topics. Get AppleCare+ · Apple Account and Password · Billing ... To now try and call us friend? I'm sure you think because I am of faith. I'm some ...",
+            "htmlSnippet": "Helpful Topics. Get AppleCare+ &middot; <b>Apple Account</b> and Password &middot; Billing ... To now try and call <b>us</b> friend? I&#39;m sure you think because I am of faith. I&#39;m some&nbsp;...",
+            "formattedUrl": "https://apps.apple.com/us/app/facebook/id284882215",
+            "htmlFormattedUrl": "https://apps.<b>apple</b>.com/<b>us</b>/app/<b>facebook</b>/id284882215",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlP7InGe5o_PpuXB6yUcxgme_VJuZhc51ZeN6npLt_-71EvYzuZj_bu5M&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e6/73/1de6738c-70db-89c4-fec1-600aba0f1e15/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "App Store",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/png",
+                        "og:description": "‎Where real people propel your curiosity. Whether you’re thrifting gear, showing a reel to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests: \n* Ask Meta AI to search topic…",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e6/73/1de6738c-70db-89c4-fec1-600aba0f1e15/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e6/73/1de6738c-70db-89c4-fec1-600aba0f1e15/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x600wa.png",
+                        "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222508.0.0%2B02a73239%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+                        "twitter:image:alt": "Facebook on the App Store",
+                        "twitter:site": "@AppStore",
+                        "og:image:alt": "Facebook on the App Store",
+                        "og:type": "website",
+                        "twitter:title": "‎Facebook",
+                        "og:title": "‎Facebook",
+                        "og:image:height": "630",
+                        "version": "2508.0.0",
+                        "globalnav-search-suggestions-enabled": "false",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "ac-gn-search-suggestions-enabled": "false",
+                        "twitter:description": "‎Where real people propel your curiosity. Whether you’re thrifting gear, showing a reel to that group who gets it, or sharing laughs over fun images reimagined by AI, Facebook helps you make things happen like no other social network.\n\nExplore and expand your interests: \n* Ask Meta AI to search topic…",
+                        "og:locale": "en_US",
+                        "apple:content_id": "284882215",
+                        "og:url": "https://apps.apple.com/us/app/facebook/id284882215"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/e6/73/1de6738c-70db-89c4-fec1-600aba0f1e15/Icon-Production-0-0-1x_U007epad-0-1-0-85-220.png/1200x630wa.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "If an app asks to track your activity - Apple Support",
+            "htmlTitle": "If an app asks to track your activity - <b>Apple</b> Support",
+            "link": "https://support.apple.com/en-us/102420",
+            "displayLink": "support.apple.com",
+            "snippet": "Sep 16, 2024 ... In some circumstances, the \"Allow Apps to Request to Track\" setting can't be turned on, including: For users with child accounts or who are ...",
+            "htmlSnippet": "Sep 16, 2024 <b>...</b> In some circumstances, the &quot;Allow Apps to Request to Track&quot; setting can&#39;t be turned on, including: For users with child accounts or who are&nbsp;...",
+            "formattedUrl": "https://support.apple.com/en-us/102420",
+            "htmlFormattedUrl": "https://support.<b>apple</b>.com/en-<b>us</b>/102420",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsoBQv-Po4IfRQTxCklnw9OZ8od4ISjZYkXCAyvQTPqxVmY0opY9WgUzU&s",
+                        "width": "188",
+                        "height": "268"
+                    }
+                ],
+                "Organization": [
+                    {
+                        "name": "Apple",
+                        "telephone": "1-800-692-7753"
+                    }
+                ],
+                "BreadcrumbList": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "globalnav-search-field[locale]": "en_US",
+                        "og:site_name": "Apple Support",
+                        "globalnav-store-key": "S2A49YFKJF2JAT22K",
+                        "og:title": "If an app asks to track your activity - Apple Support",
+                        "globalnav-search-field[src]": "globalnav_support",
+                        "globalnav-search-field[name]": "q",
+                        "telephone": "1-800-692-7753",
+                        "og:description": "App Tracking Transparency allows you to choose whether an app can track your activity across other companies’ apps and websites for the purposes of advertising or sharing with data brokers. ",
+                        "globalnav-search-field[placeholder]": "Search Support",
+                        "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "og:locale": "en_US",
+                        "globalnav-search-field[type]": "organic",
+                        "name": "Apple",
+                        "globalnav-search-field[page]": "search",
+                        "position": "1",
+                        "og:url": "https://support.apple.com/en-us/102420"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://cdsassets.apple.com/live/7WUAS350/images/ios/ios-16-iphone-14-pro-allow-app-to-track-activity-prompt.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Messenger on the App Store",
+            "htmlTitle": "Messenger on the App Store",
+            "link": "https://apps.apple.com/us/app/messenger/id454638411",
+            "displayLink": "apps.apple.com",
+            "snippet": "Apple Account and Password · Billing & Subscriptions · Accessibility. 0 total ... [facebook.com/help/messenger-app]. more. Ratings and Reviews. See All. 4.6 out ...",
+            "htmlSnippet": "<b>Apple Account</b> and Password &middot; Billing &amp; Subscriptions &middot; Accessibility. 0 total ... [<b>facebook</b>.com/help/messenger-app]. more. Ratings and Reviews. See All. 4.6 out&nbsp;...",
+            "formattedUrl": "https://apps.apple.com/us/app/messenger/id454638411",
+            "htmlFormattedUrl": "https://apps.<b>apple</b>.com/<b>us</b>/app/messenger/id454638411",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_1ABYBCnOGvaDiYYxGMcv2buuzEDlsiBUqPHt9c9JCoEVrtpNx4-TPmo&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/75/36/ab7536ad-2a1f-f22e-536c-738ad53a525d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/1200x630wa.png",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "App Store",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/png",
+                        "og:description": "‎Messenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.\n\nCHAT AND CALL ANYONE, ANYWHERE \nFind and connect with your…",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/75/36/ab7536ad-2a1f-f22e-536c-738ad53a525d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/1200x630wa.png",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/75/36/ab7536ad-2a1f-f22e-536c-738ad53a525d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/1200x600wa.png",
+                        "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222508.0.0%2B02a73239%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+                        "twitter:image:alt": "Messenger on the App Store",
+                        "twitter:site": "@AppStore",
+                        "og:image:alt": "Messenger on the App Store",
+                        "og:type": "website",
+                        "twitter:title": "‎Messenger",
+                        "og:title": "‎Messenger",
+                        "og:image:height": "630",
+                        "version": "2508.0.0",
+                        "globalnav-search-suggestions-enabled": "false",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "ac-gn-search-suggestions-enabled": "false",
+                        "twitter:description": "‎Messenger is a free messaging app that helps you connect with anyone, anywhere. Stay in touch with your friends and family, explore your interests with people like you, build your community, and share your vibe beyond words, all in one app.\n\nCHAT AND CALL ANYONE, ANYWHERE \nFind and connect with your…",
+                        "og:locale": "en_US",
+                        "apple:content_id": "454638411",
+                        "og:url": "https://apps.apple.com/us/app/messenger/id454638411"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/75/36/ab7536ad-2a1f-f22e-536c-738ad53a525d/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/1200x630wa.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Facebook notifications not working - Apple Community",
+            "htmlTitle": "<b>Facebook</b> notifications not working - <b>Apple</b> Community",
+            "link": "https://discussions.apple.com/thread/251512356",
+            "displayLink": "discussions.apple.com",
+            "snippet": "My notifications are turned on in the iphone settings and also in the fb app. ... I created a Facebook Group for us all to join. I have a feeling there are ...",
+            "htmlSnippet": "My notifications are turned on in the <b>iphone</b> settings and also in the fb app. ... I created a <b>Facebook</b> Group for <b>us</b> all to join. I have a feeling there are&nbsp;...",
+            "formattedUrl": "https://discussions.apple.com/thread/251512356",
+            "htmlFormattedUrl": "https://discussions.<b>apple</b>.com/thread/251512356",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv5jVKYnxCL99ax2fZNCW1NYEfTF9D_s52wraq4rv3LE3ZZYkGgct7cjhg&s",
+                        "width": "152",
+                        "height": "331"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+                        "globalnav-search-field[locale]": "en_US",
+                        "globalnav-store-key": "S2A49YFKJF2JAT22K",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, viewport-fit=cover",
+                        "globalnav-search-field[type]": "organic",
+                        "globalnav-search-field[src]": "globalnav_support",
+                        "globalnav-search-field[name]": "q",
+                        "globalnav-search-field[page]": "search",
+                        "globalnav-submenus-enabled": "false",
+                        "globalnav-search-field[placeholder]": "Search Support"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://discussions.apple.com/content/attachment/4a692ef6-e839-4f5c-8db8-cea1439360c7"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "MacStore (@macstoremx) · Instagram photos and videos",
+            "htmlTitle": "MacStore (@macstoremx) · <b>Instagram</b> photos and videos",
+            "link": "https://www.instagram.com/macstoremx/?hl=en",
+            "displayLink": "www.instagram.com",
+            "snippet": "Para obtener más información, visita apple.com/mx/iphone. Apple Intelligence ... Emma Sleep Mexico. Follow. sillonespuffmx. PUFF MX. Follow.",
+            "htmlSnippet": "Para obtener más información, visita <b>apple</b>.com/<b>mx</b>/iphone. <b>Apple</b> Intelligence ... Emma Sleep <b>Mexico</b>. Follow. sillonespuffmx. PUFF <b>MX</b>. Follow.",
+            "formattedUrl": "https://www.instagram.com/macstoremx/?hl=en",
+            "htmlFormattedUrl": "https://www.<b>instagram</b>.com/macstoremx/?hl=en",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4Kz2Jdc-UbMctGgr1nxXuuwGwso-Qp8NDKwSQXLH4MZBLbFuTgIMCYAy&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://scontent-atl3-3.cdninstagram.com/v/t51.2885-19/358421247_982582013195980_966596137605746245_n.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=1&ccb=1-7&_nc_sid=bf7eb4&_nc_ohc=0EgRTpCKyc0Q7kNvgHgJR5u&_nc_oc=AdiSENTZBBlgZn-fmAeuR1EQPAE80SqeYFCm003GXi3feHKziZQHuO4-Kvrpd30q2rk&_nc_zt=24&_nc_ht=scontent-atl3-3.cdninstagram.com&oh=00_AYDPRDMZ16fygAVXv5G3F2ZZs_pjXct3ZmI_5P_kiaUg2Q&oe=67C2546C",
+                        "theme-color": "#FFFFFF",
+                        "og:type": "profile",
+                        "al:ios:app_name": "Instagram",
+                        "og:title": "MacStore (@macstoremx) • Instagram photos and videos",
+                        "al:android:package": "com.instagram.android",
+                        "bingbot": "noarchive",
+                        "al:ios:url": "instagram://user?username=macstoremx",
+                        "color-scheme": "light",
+                        "og:description": "215K Followers, 27 Following, 3,804 Posts - See Instagram photos and videos from MacStore (@macstoremx)",
+                        "al:ios:app_store_id": "389801252",
+                        "al:android:url": "https://instagram.com/_u/macstoremx/",
+                        "apple-mobile-web-app-status-bar-style": "default",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.instagram.com/macstoremx/",
+                        "al:android:app_name": "Instagram"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3574711190940982017"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Instagram en App Store",
+            "htmlTitle": "<b>Instagram</b> en App Store",
+            "link": "https://apps.apple.com/us/app/instagram/id389801252?l=es-MX",
+            "displayLink": "apps.apple.com",
+            "snippet": "Requiere iOS 15.1 o posterior. iPod touch: Requiere iOS 15.1 o posterior. Idiomas. Español, Alemán, Checo, Chino simplificado, Chino tradicional, Coreano ...",
+            "htmlSnippet": "Requiere iOS 15.1 o posterior. iPod touch: Requiere iOS 15.1 o posterior. Idiomas. Español, Alemán, Checo, Chino simplificado, Chino tradicional, Coreano&nbsp;...",
+            "formattedUrl": "https://apps.apple.com/us/app/instagram/id389801252?l=es-MX",
+            "htmlFormattedUrl": "https://apps.<b>apple</b>.com/us/app/<b>instagram</b>/id389801252?l=es-<b>MX</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDimbePFxX2JYbJf3l-AlTJk667kH1sJPLNvtrC3cy6t-286l2jK6_YUs&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/41/19/834119bc-05dc-722f-31df-9b7a0d3a9e4e/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1200x630wa.png",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "App Store",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/png",
+                        "og:description": "‎Los pequeños momentos pueden conducir a grandes amistades. Comparte los tuyos en Instagram.\n— Meta\nConéctate con amigos, consigue más fans y descubre las actividades y los intereses de las personas que te rodean. Explora lo que te gusta y publica lo que haces, desde momentos cotidianos hasta los gra…",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/41/19/834119bc-05dc-722f-31df-9b7a0d3a9e4e/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1200x630wa.png",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/41/19/834119bc-05dc-722f-31df-9b7a0d3a9e4e/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1200x600wa.png",
+                        "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222508.0.0%2B02a73239%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+                        "twitter:image:alt": "Instagram en App Store",
+                        "twitter:site": "@AppStore",
+                        "og:image:alt": "Instagram en App Store",
+                        "og:type": "website",
+                        "twitter:title": "‎Instagram",
+                        "og:title": "‎Instagram",
+                        "og:image:height": "630",
+                        "version": "2508.0.0",
+                        "globalnav-search-suggestions-enabled": "false",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "ac-gn-search-suggestions-enabled": "false",
+                        "twitter:description": "‎Los pequeños momentos pueden conducir a grandes amistades. Comparte los tuyos en Instagram.\n— Meta\nConéctate con amigos, consigue más fans y descubre las actividades y los intereses de las personas que te rodean. Explora lo que te gusta y publica lo que haces, desde momentos cotidianos hasta los gra…",
+                        "og:locale": "es_MX",
+                        "apple:content_id": "389801252",
+                        "og:url": "https://apps.apple.com/us/app/instagram/id389801252?l=es-MX"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/41/19/834119bc-05dc-722f-31df-9b7a0d3a9e4e/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1200x630wa.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "apple • Instagram photos and videos",
+            "htmlTitle": "<b>apple</b> • <b>Instagram</b> photos and videos",
+            "link": "https://www.instagram.com/apple/",
+            "displayLink": "www.instagram.com",
+            "snippet": "34M Followers, 9 Following, 1213 Posts - @apple on Instagram: \"Everyone has a story to tell. Tag #ShotoniPhone to take part.\"",
+            "htmlSnippet": "34M Followers, 9 Following, 1213 Posts - @<b>apple</b> on <b>Instagram</b>: &quot;Everyone has a story to tell. Tag #ShotoniPhone to take part.&quot;",
+            "formattedUrl": "https://www.instagram.com/apple/",
+            "htmlFormattedUrl": "https://www.<b>instagram</b>.com/<b>apple</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCnMZ14IqCo56_yykAz7rKv6_IC5tMM_Q8k6iUvwc26YQIVErVtcKpMGeG&s",
+                        "width": "201",
+                        "height": "251"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/20635165_1942203892713915_5464937638928580608_a.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=bf7eb4&_nc_ohc=RAIl32RxFJsQ7kNvgFNkD9e&_nc_oc=AdiXqfFwXtd5-3_7Q-io6fwhCItp442DBQc1D-Y7QLiZdiyO5xptgnGtbO3aiIJn680&_nc_zt=24&_nc_ht=scontent-dfw5-2.cdninstagram.com&oh=00_AYDt38cCZk4MQgl-DQzMsrGta-DOjjDqwgGA4YpNwYziCA&oe=67C2509C",
+                        "theme-color": "#FFFFFF",
+                        "og:type": "profile",
+                        "al:ios:app_name": "Instagram",
+                        "og:title": "apple • Instagram photos and videos",
+                        "al:android:package": "com.instagram.android",
+                        "bingbot": "noarchive",
+                        "al:ios:url": "instagram://user?username=apple",
+                        "color-scheme": "light",
+                        "og:description": "34M Followers, 9 Following, 1,213 Posts - See Instagram photos and videos from @apple",
+                        "al:ios:app_store_id": "389801252",
+                        "al:android:url": "https://instagram.com/_u/apple/",
+                        "apple-mobile-web-app-status-bar-style": "default",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.instagram.com/apple/",
+                        "al:android:app_name": "Instagram"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572295553368653912"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Podcast Las Alucines - Apple Podcasts",
+            "htmlTitle": "Podcast Las Alucines - <b>Apple</b> Podcasts",
+            "link": "https://podcasts.apple.com/us/podcast/las-alucines/id1771721464?l=es-MX",
+            "displayLink": "podcasts.apple.com",
+            "snippet": "... cuentas falsas o personas que nos tienen envidia :) ¡Te esperamos todos ... https://www.instagram.com/lasalucines_podcast/ https://www.instagram.com ...",
+            "htmlSnippet": "... <b>cuentas</b> falsas o personas que nos tienen envidia :) ¡Te esperamos todos ... https://www.<b>instagram</b>.com/lasalucines_podcast/ https://www.<b>instagram</b>.com&nbsp;...",
+            "formattedUrl": "https://podcasts.apple.com/us/podcast/las-alucines/id1771721464?l...MX",
+            "htmlFormattedUrl": "https://podcasts.<b>apple</b>.com/us/podcast/las-alucines/id1771721464?l...<b>MX</b>",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT13QYlJBhLaMJbqvVfHkYin0J1kcLhJl9SGwIuhPtbE5xqmutKzTmvkg1-&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/b5/51/31b5515f-fc92-1cb4-e066-b9847089f804/mza_11538729467756891479.jpg/1200x1200bf-60.jpg",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary",
+                        "og:site_name": "Apple Podcasts",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/jpg",
+                        "og:description": "Podcast de Comedia·  31 episodios · Cada semana",
+                        "al:ios:app_store_id": "525463029",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/b5/51/31b5515f-fc92-1cb4-e066-b9847089f804/mza_11538729467756891479.jpg/1200x1200bf-60.jpg",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/b5/51/31b5515f-fc92-1cb4-e066-b9847089f804/mza_11538729467756891479.jpg/1200x1200bf-60.jpg",
+                        "twitter:image:alt": "Las Alucines",
+                        "twitter:site": "@ApplePodcasts",
+                        "og:image:alt": "Las Alucines",
+                        "og:type": "website",
+                        "twitter:title": "Las Alucines",
+                        "apple:title": "Las Alucines",
+                        "al:ios:app_name": "Apple Podcasts",
+                        "og:title": "Las Alucines",
+                        "og:image:height": "1200",
+                        "version": "2508.14.0-external",
+                        "referrer": "strict-origin",
+                        "viewport": "width=device-width,initial-scale=1",
+                        "twitter:description": "Podcast de Comedia·  31 episodios · Cada semana",
+                        "apple:description": "Escucha el podcast Las Alucines de Lupita Villalobos y Kass Quezada (Quesito) en Apple Podcasts.",
+                        "og:locale": "es_MX",
+                        "apple:content_id": "1771721464",
+                        "og:url": "https://podcasts.apple.com/us/podcast/las-alucines/id1771721464?l=es-MX"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/31/b5/51/31b5515f-fc92-1cb4-e066-b9847089f804/mza_11538729467756891479.jpg/1200x1200bf-60.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Iniciar sesión en apps con la cuenta de Apple usando contraseñas ...",
+            "htmlTitle": "Iniciar sesión en apps con la <b>cuenta</b> de <b>Apple</b> usando contraseñas ...",
+            "link": "https://support.apple.com/es-mx/102654",
+            "displayLink": "support.apple.com",
+            "snippet": "Oct 16, 2024 ... Iniciar sesión en apps con la cuenta de Apple usando contraseñas específicas de las aplicaciones. México. Copyright © 2025 Apple Inc. Todos ...",
+            "htmlSnippet": "Oct 16, 2024 <b>...</b> Iniciar sesión en apps con la <b>cuenta</b> de <b>Apple</b> usando contraseñas específicas de las aplicaciones. <b>México</b>. Copyright © 2025 <b>Apple</b> Inc. Todos&nbsp;...",
+            "formattedUrl": "https://support.apple.com/es-mx/102654",
+            "htmlFormattedUrl": "https://support.<b>apple</b>.com/es-<b>mx</b>/102654",
+            "pagemap": {
+                "Organization": [
+                    {
+                        "name": "Apple",
+                        "telephone": "001-800-692-7753"
+                    }
+                ],
+                "BreadcrumbList": [
+                    {}
+                ],
+                "metatags": [
+                    {
+                        "og:type": "article",
+                        "globalnav-search-field[locale]": "es_MX",
+                        "og:site_name": "Apple Support",
+                        "globalnav-store-key": "S2A49YFKJF2JAT22K",
+                        "og:title": "Iniciar sesi&oacute;n en apps con la cuenta de Apple usando contrase&ntilde;as espec&iacute;ficas de las aplicaciones - Soporte t&eacute;cnico de Apple (MX)",
+                        "globalnav-search-field[src]": "globalnav_support",
+                        "globalnav-search-field[name]": "q",
+                        "telephone": "001-800-692-7753",
+                        "og:description": "Las contraseñas específicas de las aplicaciones te permiten usar tu cuenta de Apple de forma segura para iniciar sesión en aplicaciones creadas por desarrolladores que no sean Apple.",
+                        "globalnav-search-field[placeholder]": "Buscar en Soporte técnico",
+                        "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "og:locale": "es_MX",
+                        "globalnav-search-field[type]": "organic",
+                        "name": "Apple",
+                        "globalnav-search-field[page]": "search",
+                        "position": "1",
+                        "og:url": "https://support.apple.com/es-mx/102654"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "apple • Instagram photos and videos",
+            "htmlTitle": "<b>apple</b> • <b>Instagram</b> photos and videos",
+            "link": "https://www.instagram.com/apple/",
+            "displayLink": "www.instagram.com",
+            "snippet": "apple's profile picture. 1,213 posts. 34,063,807 followers. 8 following. apple ... I asked myself, 'How would the ocean welcome us?'” #ShotoniPhone by ...",
+            "htmlSnippet": "<b>apple&#39;s</b> profile picture. 1,213 posts. 34,063,807 followers. 8 following. <b>apple</b> ... I asked myself, &#39;How would the ocean welcome <b>us</b>?&#39;” #ShotoniPhone by&nbsp;...",
+            "formattedUrl": "https://www.instagram.com/apple/",
+            "htmlFormattedUrl": "https://www.<b>instagram</b>.com/<b>apple</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCnMZ14IqCo56_yykAz7rKv6_IC5tMM_Q8k6iUvwc26YQIVErVtcKpMGeG&s",
+                        "width": "201",
+                        "height": "251"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://scontent-dfw5-2.cdninstagram.com/v/t51.2885-19/20635165_1942203892713915_5464937638928580608_a.jpg?stp=dst-jpg_s100x100_tt6&_nc_cat=104&ccb=1-7&_nc_sid=bf7eb4&_nc_ohc=RAIl32RxFJsQ7kNvgFNkD9e&_nc_oc=AdiXqfFwXtd5-3_7Q-io6fwhCItp442DBQc1D-Y7QLiZdiyO5xptgnGtbO3aiIJn680&_nc_zt=24&_nc_ht=scontent-dfw5-2.cdninstagram.com&oh=00_AYDt38cCZk4MQgl-DQzMsrGta-DOjjDqwgGA4YpNwYziCA&oe=67C2509C",
+                        "theme-color": "#FFFFFF",
+                        "og:type": "profile",
+                        "al:ios:app_name": "Instagram",
+                        "og:title": "apple • Instagram photos and videos",
+                        "al:android:package": "com.instagram.android",
+                        "bingbot": "noarchive",
+                        "al:ios:url": "instagram://user?username=apple",
+                        "color-scheme": "light",
+                        "og:description": "34M Followers, 9 Following, 1,213 Posts - See Instagram photos and videos from @apple",
+                        "al:ios:app_store_id": "389801252",
+                        "al:android:url": "https://instagram.com/_u/apple/",
+                        "apple-mobile-web-app-status-bar-style": "default",
+                        "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+                        "mobile-web-app-capable": "yes",
+                        "og:url": "https://www.instagram.com/apple/",
+                        "al:android:app_name": "Instagram"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3572295553368653912"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Instagram on the App Store",
+            "htmlTitle": "<b>Instagram</b> on the App Store",
+            "link": "https://apps.apple.com/us/app/instagram/id389801252",
+            "displayLink": "apps.apple.com",
+            "snippet": "Apple Account and Password · Billing & Subscriptions · Accessibility. 0 total ... This app may use your location even when it isn't open, which can decrease ...",
+            "htmlSnippet": "<b>Apple Account</b> and Password &middot; Billing &amp; Subscriptions &middot; Accessibility. 0 total ... This app may <b>use</b> your location even when it isn&#39;t open, which can decrease&nbsp;...",
+            "formattedUrl": "https://apps.apple.com/us/app/instagram/id389801252",
+            "htmlFormattedUrl": "https://apps.<b>apple</b>.com/<b>us</b>/app/<b>instagram</b>/id389801252",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDimbePFxX2JYbJf3l-AlTJk667kH1sJPLNvtrC3cy6t-286l2jK6_YUs&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/41/19/834119bc-05dc-722f-31df-9b7a0d3a9e4e/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1200x630wa.png",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "App Store",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/png",
+                        "og:description": "‎Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:…",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/41/19/834119bc-05dc-722f-31df-9b7a0d3a9e4e/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1200x630wa.png",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/41/19/834119bc-05dc-722f-31df-9b7a0d3a9e4e/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1200x600wa.png",
+                        "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222508.0.0%2B02a73239%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+                        "twitter:image:alt": "Instagram on the App Store",
+                        "twitter:site": "@AppStore",
+                        "og:image:alt": "Instagram on the App Store",
+                        "og:type": "website",
+                        "twitter:title": "‎Instagram",
+                        "og:title": "‎Instagram",
+                        "og:image:height": "630",
+                        "version": "2508.0.0",
+                        "globalnav-search-suggestions-enabled": "false",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "ac-gn-search-suggestions-enabled": "false",
+                        "twitter:description": "‎Little moments lead to big friendships. Share yours on Instagram. \n— From Meta\n\nConnect with friends, find other fans, and see what people around you are up to and into. Explore your interests and post what's going on, from your daily moments to life's highlights.\n\nShare what you’re up to and into:…",
+                        "og:locale": "en_US",
+                        "apple:content_id": "389801252",
+                        "og:url": "https://apps.apple.com/us/app/instagram/id389801252"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/83/41/19/834119bc-05dc-722f-31df-9b7a0d3a9e4e/Prod-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/1200x630wa.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Instagram app loading but not working on … - Apple Community",
+            "htmlTitle": "<b>Instagram</b> app loading but not working on … - <b>Apple</b> Community",
+            "link": "https://discussions.apple.com/thread/255282607",
+            "displayLink": "discussions.apple.com",
+            "snippet": "Nov 17, 2023 ... ... Instagram account. I have deleted Insta and FB apps and ... use of the site. All postings and use of the content on this site ...",
+            "htmlSnippet": "Nov 17, 2023 <b>...</b> ... <b>Instagram account</b>. I have deleted <b>Insta</b> and FB apps and ... <b>use</b> of the site. All postings and <b>use</b> of the content on this site&nbsp;...",
+            "formattedUrl": "https://discussions.apple.com/thread/255282607",
+            "htmlFormattedUrl": "https://discussions.<b>apple</b>.com/thread/255282607",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+                        "globalnav-search-field[locale]": "en_US",
+                        "globalnav-store-key": "S2A49YFKJF2JAT22K",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, viewport-fit=cover",
+                        "globalnav-search-field[type]": "organic",
+                        "globalnav-search-field[src]": "globalnav_support",
+                        "globalnav-search-field[name]": "q",
+                        "globalnav-search-field[page]": "search",
+                        "globalnav-submenus-enabled": "false",
+                        "globalnav-search-field[placeholder]": "Search Support"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Threads on the App Store",
+            "htmlTitle": "Threads on the App Store",
+            "link": "https://apps.apple.com/us/app/threads/id6446901002",
+            "displayLink": "apps.apple.com",
+            "snippet": "Say more with Threads — Instagram's text-based conversation app. Threads is where ... Helpful Topics. Get AppleCare+ · Apple Account and Password · Billing ...",
+            "htmlSnippet": "Say more with Threads — <b>Instagram&#39;s</b> text-based conversation app. Threads is where ... Helpful Topics. Get AppleCare+ &middot; <b>Apple Account</b> and Password &middot; Billing&nbsp;...",
+            "formattedUrl": "https://apps.apple.com/us/app/threads/id6446901002",
+            "htmlFormattedUrl": "https://apps.<b>apple</b>.com/<b>us</b>/app/threads/id6446901002",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt8BGH-Rx-7cqUqUlrpN4JteIJ5fnjMyrcELEkGVfL_AZ4SbR5HLCik7c&s",
+                        "width": "310",
+                        "height": "163"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/88/a6/3b88a6a1-fdb1-a7dd-d4cc-fe6750662eb4/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+                        "og:image:width": "1200",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "App Store",
+                        "applicable-device": "pc,mobile",
+                        "og:image:type": "image/png",
+                        "og:description": "‎Say more with Threads — Instagram’s text-based conversation app.\n\nThreads is where communities come together to discuss everything from the topics you care about today to what’ll be trending tomorrow. Whatever it is you’re interested in, you can follow and connect directly with your favorite creator…",
+                        "og:image:secure_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/88/a6/3b88a6a1-fdb1-a7dd-d4cc-fe6750662eb4/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png",
+                        "twitter:image": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/88/a6/3b88a6a1-fdb1-a7dd-d4cc-fe6750662eb4/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x600wa.png",
+                        "web-experience-app/config/environment": "%7B%22appVersion%22%3A1%2C%22modulePrefix%22%3A%22web-experience-app%22%2C%22environment%22%3A%22production%22%2C%22rootURL%22%3A%22%2F%22%2C%22locationType%22%3A%22history-hash-router-scroll%22%2C%22historySupportMiddleware%22%3Atrue%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%2C%22EXTEND_PROTOTYPES%22%3A%7B%22Date%22%3Afalse%7D%2C%22_APPLICATION_TEMPLATE_WRAPPER%22%3Afalse%2C%22_DEFAULT_ASYNC_OBSERVERS%22%3Atrue%2C%22_JQUERY_INTEGRATION%22%3Afalse%2C%22_TEMPLATE_ONLY_GLIMMER_COMPONENTS%22%3Atrue%7D%2C%22APP%22%3A%7B%22PROGRESS_BAR_DELAY%22%3A3000%2C%22CLOCK_INTERVAL%22%3A1000%2C%22LOADING_SPINNER_SPY%22%3Atrue%2C%22BREAKPOINTS%22%3A%7B%22large%22%3A%7B%22min%22%3A1069%2C%22content%22%3A980%7D%2C%22medium%22%3A%7B%22min%22%3A735%2C%22max%22%3A1068%2C%22content%22%3A692%7D%2C%22small%22%3A%7B%22min%22%3A320%2C%22max%22%3A734%2C%22content%22%3A280%7D%7D%2C%22buildVariant%22%3A%22apps%22%2C%22name%22%3A%22web-experience-app%22%2C%22version%22%3A%222508.0.0%2B02a73239%22%7D%2C%22MEDIA_API%22%3A%7B%22token%22%3",
+                        "twitter:image:alt": "Threads on the App Store",
+                        "twitter:site": "@AppStore",
+                        "og:image:alt": "Threads on the App Store",
+                        "og:type": "website",
+                        "twitter:title": "‎Threads",
+                        "og:title": "‎Threads",
+                        "og:image:height": "630",
+                        "version": "2508.0.0",
+                        "globalnav-search-suggestions-enabled": "false",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "ac-gn-search-suggestions-enabled": "false",
+                        "twitter:description": "‎Say more with Threads — Instagram’s text-based conversation app.\n\nThreads is where communities come together to discuss everything from the topics you care about today to what’ll be trending tomorrow. Whatever it is you’re interested in, you can follow and connect directly with your favorite creator…",
+                        "og:locale": "en_US",
+                        "apple:content_id": "6446901002",
+                        "og:url": "https://apps.apple.com/us/app/threads/id6446901002"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/88/a6/3b88a6a1-fdb1-a7dd-d4cc-fe6750662eb4/Prod-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "My instagram has been disabled on my iPho… - Apple Community",
+            "htmlTitle": "My <b>instagram</b> has been disabled on my iPho… - <b>Apple</b> Community",
+            "link": "https://discussions.apple.com/thread/4724073",
+            "displayLink": "discussions.apple.com",
+            "snippet": "When I try to login using my IG app it says my account has been disabled, but I can still login through any other mobile device and my desktop.",
+            "htmlSnippet": "When I try to <b>login</b> using my <b>IG</b> app it says my <b>account</b> has been disabled, but I can still <b>login</b> through any other mobile device and my desktop.",
+            "formattedUrl": "https://discussions.apple.com/thread/4724073",
+            "htmlFormattedUrl": "https://discussions.<b>apple</b>.com/thread/4724073",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "globalnav-search-field[action]": "https://support.apple.com/kb/index",
+                        "globalnav-search-field[locale]": "en_US",
+                        "globalnav-store-key": "S2A49YFKJF2JAT22K",
+                        "viewport": "width=device-width, height=device-height, initial-scale=1, minimum-scale=1, viewport-fit=cover",
+                        "globalnav-search-field[type]": "organic",
+                        "globalnav-search-field[src]": "globalnav_support",
+                        "globalnav-search-field[name]": "q",
+                        "globalnav-search-field[page]": "search",
+                        "globalnav-submenus-enabled": "false",
+                        "globalnav-search-field[placeholder]": "Search Support"
+                    }
+                ]
+            }
+        }
+    ]
+}

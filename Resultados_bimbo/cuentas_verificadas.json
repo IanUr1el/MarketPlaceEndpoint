@@ -1,0 +1,41 @@
+{
+    "fecha_busqueda": "2025-02-26 14:21:51",
+    "resultados": {
+        "automaticas": {
+            "X": [
+                "https://x.com/bimbomx"
+            ],
+            "Facebook": [
+                "https://www.facebook.com/BimboMexico/?locale=es_LA",
+                "https://www.facebook.com/GrupoBimbo/",
+                "https://www.facebook.com/BimboBakeriesUSA/",
+                "https://www.facebook.com/BimboBakedGoods/?locale=es_LA"
+            ],
+            "Instagram": [
+                "https://www.instagram.com/bimbo_mexico/?hl=en",
+                "https://www.instagram.com/grupo_bimbo/?hl=en",
+                "https://www.instagram.com/bimbobakeriesusa/?hl=en"
+            ],
+            "Tiktok": [
+                "https://www.tiktok.com/@bimbomx"
+            ]
+        },
+        "manuales": {
+            "X": [
+                "https://x.com/Grupo_Bimbo"
+            ]
+        },
+        "eliminadas": {
+            "X": [
+                "https://x.com/bimboademoye?lang=en"
+            ],
+            "Instagram": [
+                "https://www.instagram.com/bimboademoye/?hl=en",
+                "https://www.instagram.com/sarahsommers.bimboprincess/?hl=en"
+            ],
+            "Facebook": [
+                "https://www.facebook.com/BimboBakedGoods/"
+            ]
+        }
+    }
+}

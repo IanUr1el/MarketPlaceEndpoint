@@ -1,0 +1,27 @@
+{
+    "fecha_busqueda": "2025-02-26 14:16:31",
+    "resultados": {
+        "automaticas": {
+            "X": [
+                "https://x.com/amazonmex?lang=en",
+                "https://x.com/amazon?lang=en",
+                "https://x.com/amazonnews?lang=en"
+            ],
+            "Facebook": [
+                "https://www.facebook.com/AmazonPay/",
+                "https://www.facebook.com/Amazon/"
+            ],
+            "Instagram": [
+                "https://www.instagram.com/amazonmex/?hl=en",
+                "https://www.instagram.com/amazon/?hl=en",
+                "https://www.instagram.com/amazonhome/?hl=en"
+            ],
+            "Tiktok": [
+                "https://www.tiktok.com/@amazonmex",
+                "https://www.tiktok.com/@amazon?lang=en"
+            ]
+        },
+        "manuales": {},
+        "eliminadas": {}
+    }
+}
